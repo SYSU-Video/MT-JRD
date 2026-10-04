@@ -6,7 +6,7 @@
 
 **Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application**  
 [[paper]](https://arxiv.org/abs/2604.09421) [[code]](https://github.com/SYSU-Video/MT-JRD) [[dataset]](https://ieee-dataport.org/documents/mt-jrd-multi-task-just-recognizable-difference-dataset-video-coding-machines)  
-[Junqi Liu](https://scholar.google.com.sg/citations?user=F-xSi9UAAAAJ&hl=en&oi=sra), [Yun Zhang](https://scholar.google.com.sg/citations?user=tZp-uVoAAAAJ&hl=en&oi=sra), Xiaoxia Huang, [Long Xu](https://scholar.google.com.sg/citations?hl=en&user=PBqivgkAAAAJ&view_op=list_works&sortby=pubdate), [Weisi Lin](https://scholar.google.com.sg/citations?user=D_S41X4AAAAJ&hl=en&oi=sra)  
+[Junqi Liu](https://scholar.google.com.sg/citations?user=F-xSi9UAAAAJ&hl=en&oi=sra), [Yun Zhang](https://scholar.google.com.sg/citations?user=tZp-uVoAAAAJ&hl=en&oi=sra), [Xiaoxia Huang](https://scholar.google.com.sg/citations?user=er_ieSIAAAAJ&hl=en&oi=sra), [Long Xu](https://scholar.google.com.sg/citations?hl=en&user=PBqivgkAAAAJ&view_op=list_works&sortby=pubdate), [Weisi Lin](https://scholar.google.com.sg/citations?user=D_S41X4AAAAJ&hl=en&oi=sra)  
 *arXiv preprint, 2026*
 
 ## Abstract
