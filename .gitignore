@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local datasets, checkpoints, and generated results
+data/
+checkpoints/
+pre_weights/
+results/
+runs/
+*.pth
