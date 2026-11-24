@@ -39,10 +39,10 @@ MT-JRD/
 ```
 
 ## MT-JRD Dataset
+The MT-JRD dataset is constructed from 4,348 COCO images. Each source image is compressed by VVC at 64 quantization parameters. Mask R-CNN is used for OD and IS, while Keypoint R-CNN is used for KPD. The responses of the original and distorted images are compared using category, confidence, and task-specific similarity, namely bounding-box IoU for OD, mask IoU for IS, and Object Keypoint Similarity for KPD. A threshold of 0.75 and a sliding-window correction strategy are then used to determine the JRD.
+The dataset contains 9,088 object samples and 27,264 JRD annotations across the three tasks. The samples are divided into training, validation, and test sets with 7274, 912, and 902 samples, respectively.
 
-The [MT-JRD dataset](https://ieee-dataport.org/documents/mt-jrd-multi-task-just-recognizable-difference-dataset-video-coding-machines) is constructed from 4,348 COCO images. Each source image is compressed by VVC at 64 quantization parameters. Mask R-CNN is used for OD and IS, while Keypoint R-CNN is used for KPD. The responses of the original and distorted images are compared using category, confidence, and task-specific similarity, namely bounding-box IoU for OD, mask IoU for IS, and Object Keypoint Similarity for KPD. A threshold of 0.75 and a sliding-window correction strategy are then used to determine the JRD.
-
-The dataset contains 9,088 object samples and 27,264 JRD annotations across the three tasks. The samples are divided into training, validation, and test sets with 7,274, 912, and 902 samples, respectively.
+The MT-JRD dataset is available at [IEEE DataPort](https://ieee-dataport.org/documents/mt-jrd-multi-task-just-recognizable-difference-dataset-video-coding-machines) and [Google Drive](https://drive.google.com/drive/folders/1YwI3ur20CRdn18ECeamJU6FJHODpwl83?usp=sharing).
 
 <p align="center">
   <img src="figures/dataset.png" alt="MT-JRD dataset construction pipeline" width="900"/>
